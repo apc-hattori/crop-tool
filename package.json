@@ -1,0 +1,15 @@
+{
+  "name": "crop-tool",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "static-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": "true",
+  "devDependencies": {
+    "static-server": "^2.0.1"
+  }
+}
