@@ -166,7 +166,7 @@ $(function () {
 
   $.ajax({
     type: 'GET',
-    url: '/data.json',
+    url: './data.json',
     dataType: 'json',
     success: function (json) {
       var loadQueue = new createjs.LoadQueue();
